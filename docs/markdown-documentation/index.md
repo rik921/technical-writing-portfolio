@@ -22,19 +22,19 @@ It covers fundamental Markdown syntax, professional formatting conventions, docu
 
 Learn the fundamentals of Markdown syntax and how to use Markdown elements to create structured technical documentation.
 
-[Explore Markdown Basics](markdown-basics.md)
+[Explore Markdown Basics](markdown-basics.html)
 
 ### 2. Formatting Guide
 
 Understand documentation formatting conventions, heading hierarchy, procedural instructions, notes, warnings, and content organization.
 
-[Explore the Formatting Guide](formatting-guide.md)
+[Explore the Formatting Guide](formatting-guide.html)
 
 ### 3. GitHub Workflow
 
 Explore how technical writers can use Git and GitHub to manage documentation changes, maintain version history, and collaborate with development teams.
 
-[Explore the GitHub Workflow](github-workflow.md)
+[Explore the GitHub Workflow](github-workflow.html)
 
 ## Skills Demonstrated
 
