@@ -1,43 +1,73 @@
 ---
-title: Markdown Documentation Guide
-slug: markdown-documentation-guide
+title: Markdown Documentation
+slug: markdown-documentation
 status: publish
 ---
 
-# Markdown Documentation Guide
+# Markdown Documentation
+
+**Author:** Tathagata Chakrabarti  
+**Category:** Technical Writing | Markdown Authoring  
+**Authoring Tools:** Visual Studio Code, Git, GitHub
 
 ## Overview
 
-This project demonstrates how Markdown can be used to create structured, readable, and maintainable technical documentation.
+This documentation project demonstrates practical Markdown authoring skills and the application of Markdown in technical documentation.
 
-Markdown is a lightweight markup language that enables technical writers and developers to format content using plain text syntax. It is widely used for product documentation, README files, knowledge bases, developer portals, and documentation repositories.
+It covers fundamental Markdown syntax, professional formatting conventions, document organization, and GitHub-based documentation workflows.
 
-## Project objectives
+## Documentation Modules
 
-- Demonstrate Markdown syntax and formatting conventions.
-- Establish consistent documentation structures.
-- Explain how to create and maintain technical documentation using GitHub.
-- Showcase documentation workflows suitable for software products and developer audiences.
+### 1. Markdown Basics
 
-## Documentation included
+Learn the fundamentals of Markdown syntax and how to use Markdown elements to create structured technical documentation.
 
-| Document | Description |
+[Explore Markdown Basics](markdown-basics.md)
+
+### 2. Formatting Guide
+
+Understand documentation formatting conventions, heading hierarchy, procedural instructions, notes, warnings, and content organization.
+
+[Explore the Formatting Guide](formatting-guide.md)
+
+### 3. GitHub Workflow
+
+Explore how technical writers can use Git and GitHub to manage documentation changes, maintain version history, and collaborate with development teams.
+
+[Explore the GitHub Workflow](github-workflow.md)
+
+## Skills Demonstrated
+
+- Markdown syntax and GitHub Flavored Markdown
+- Structured content authoring
+- Technical documentation formatting
+- Procedural and task-oriented writing
+- Documentation consistency
+- Git version control
+- GitHub repository management
+- Documentation collaboration
+
+## Authoring Environment
+
+| Tool | Purpose |
 | --- | --- |
-| Markdown Basics | Core Markdown syntax and elements |
-| Formatting Guide | Headings, lists, tables, links, and code blocks |
-| GitHub Workflow | Creating, editing, reviewing, and maintaining documentation |
+| Visual Studio Code | Markdown authoring |
+| Markdown | Documentation source format |
+| Git | Version control |
+| GitHub | Repository hosting and collaboration |
+| GitHub Pages | Documentation publishing |
 
-## Intended audience
+## Documentation Principles
 
-This guide is intended for technical writers, software developers, information developers, and contributors who maintain product documentation.
+My approach to Markdown documentation focuses on:
 
-## Tools and technologies
+1. Logical information hierarchy.
+2. Consistent formatting and terminology.
+3. Concise, user-focused content.
+4. Meaningful hyperlinks and cross-references.
+5. Accessible and maintainable documentation.
+6. Version-controlled content management.
 
-- Markdown
-- Visual Studio Code
-- Git
-- GitHub
+---
 
-## Author
-
-Technical Writing and Information Development Portfolio
+*Independent portfolio project demonstrating Markdown authoring and documentation practices.*
