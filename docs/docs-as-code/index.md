@@ -41,9 +41,9 @@ Approved documentation changes can trigger automated build and publishing workfl
 
 | Resource | Description |
 | --- | --- |
-| [Markdown Documentation](../markdown-documentation/index.md) | Markdown authoring and formatting |
-| [GitHub Workflow](../markdown-documentation/github-workflow.md) | Git and GitHub collaboration |
-| [Documentation Lifecycle](documentation-lifecycle.md) | End-to-end documentation management |
+| [Markdown Documentation](../markdown-documentation/index.html) | Markdown authoring and formatting |
+| [GitHub Workflow](../markdown-documentation/github-workflow.html) | Git and GitHub collaboration |
+| [Documentation Lifecycle](documentation-lifecycle.html) | End-to-end documentation management |
 
 ## Docs-as-Code Workflow
 
