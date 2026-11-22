@@ -1,5 +1,5 @@
 ---
-title: Markdown Documentation
+title: Markdown Documentation Demonstration
 slug: markdown-documentation
 status: publish
 ---
