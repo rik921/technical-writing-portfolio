@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>{{ page.title }} | Tathagata Chakrabarti</title>
+
+    <meta name="description"
+          content="Technical Writing and Markdown Documentation Portfolio">
+
+    <link rel="stylesheet"
+          href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+
+<body>
+
+<header class="navbar">
+    <a href="{{ '/' | relative_url }}" class="logo">
+        Tathagata Chakrabarti
+    </a>
+
+    <nav>
+        <a href="{{ '/' | relative_url }}#about">About</a>
+        <a href="{{ '/' | relative_url }}#expertise">Expertise</a>
+        <a href="{{ '/' | relative_url }}#projects">Projects</a>
+        <a href="{{ '/' | relative_url }}#contact">Contact</a>
+    </nav>
+</header>
+
+<main class="documentation-page">
+
+    <div class="documentation-container">
+
+        <div class="documentation-breadcrumb">
+            <a href="{{ '/' | relative_url }}">Home</a>
+            <span>/</span>
+            <a href="{{ '/docs/markdown-documentation/' | relative_url }}">
+                Markdown Documentation
+            </a>
+            {% unless page.name == "index.md" %}
+                <span>/</span>
+                <span>{{ page.title }}</span>
+            {% endunless %}
+        </div>
+
+        <article class="documentation-content">
+
+            <div class="documentation-label">
+                TECHNICAL WRITING PORTFOLIO
+            </div>
+
+            <h1>{{ page.title }}</h1>
+
+            {{ content }}
+
+        </article>
+
+        <div class="documentation-navigation">
+            <a href="{{ '/docs/markdown-documentation/' | relative_url }}">
+                ← Back to Documentation Home
+            </a>
+        </div>
+
+    </div>
+
+</main>
+
+<footer>
+    <p>© 2026 Tathagata Chakrabarti. Built with HTML, CSS and GitHub Pages.</p>
+</footer>
+
+</body>
+</html>

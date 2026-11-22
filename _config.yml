@@ -1,0 +1,14 @@
+title: "Tathagata Chakrabarti | Technical Writer"
+description: "Technical Writing and Information Development Portfolio"
+url: "https://rik921.github.io"
+baseurl: "/technical-writing-portfolio"
+
+markdown: kramdown
+highlighter: rouge
+
+defaults:
+  - scope:
+      path: "docs/markdown-documentation"
+      type: "pages"
+    values:
+      layout: default
